@@ -19,6 +19,3 @@ Education
 * 2013  M.S., Ecole des Mines Paristech, France.
 
 
-
-  
-
