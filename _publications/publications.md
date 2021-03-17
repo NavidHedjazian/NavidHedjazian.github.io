@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+  1. Hedjazian, N., Capdeville, Y. & Bodin, T., 2021. Multiscale seismic imaging with inverse homogenization. <i> Submitted to Geophys. J. Int.</i>.
+[PDF, author version](../files/InverseHomog2021_authorversion.pdf)
+
+  1. Magali, J. K., Bodin, T., Hedjazian, N., Samuel, H., & Atkins, S., 2021). Geodynamic tomography: constraining upper-mantle deformation patterns from Bayesian inversion of surface waves. <i>Geophys. J. Int.</i>, 224(3), 2077-2099.
+[PDF](https://hal.archives-ouvertes.fr/hal-03048271/document)
+[BibTeX](../files/geodynamictomography_gji2021.bib)
+
   1. Hedjazian, N., Bodin, T., & Métivier, L., 2018. An optimal transport approach to linearized inversion of receiver functions. <i>Geophys. J. Int.</i>, 216(1), 130-147, doi:10.1093/gji/ggy419.
 [PDF](https://hal.archives-ouvertes.fr/hal-02010712/document)
 [BibTeX](../files/anoptimaltransportapproach_gji2018.bib)
